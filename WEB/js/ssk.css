@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    background-color:peachpuff;
+    height: 100%;
+}
+a{
+    text-decoration: none;
+}
+#p{
+    position: relative;
+    top: 100px;
+    margin:auto ;
+    width: 850px;
+    height: 100px;
+}
+#q{
+    position: relative;
+    margin:auto ;
+    width: 800px;
+    height: 55px;
+    display: flex;
+}
+#qa{
+    display: flex;
+
+}
+#qa input{
+    width: 500px;
+    height: 50px;
+    border: 2px red solid;
+    padding-left: 20px;
+    font-size: 20px;
+}
+#qaa{
+    width: 60px;
+    height: 54px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+
+}
+#qaa img{
+    width: 35px;
+    height: 34px;
+}
+#qab{
+    width: 80px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 3px;
+    left:420px;
+}
+#qab img{
+    width: 40px;
+    height: 40px;
+}
+#w{
+    margin-left: 50px;
+    width: 150px;
+    height: 50px;
+    background-color: gainsboro;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+
+}
+#w img{
+    width: 40px;
+    height: 40px;
+}
+#e{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    width: 500px;
+    height: 30px;
+    position: absolute;
+    top: 55px;
+    left:10px;
+}
+#e div a{
+    color: #C0C0C0;
+    font-size: 14px;
+}
+#r{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    color: white;
+    position:absolute;
+    top: 2px;
+    right: 90px;
+}
+
+

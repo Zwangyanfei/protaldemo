@@ -1,0 +1,50 @@
+#fs{
+    width:100%;
+    height:100px;
+    background-color: red;
+    border:1px black solid;
+    position: relative;
+
+}
+#qq{
+    position: absolute;
+    top: 20px;
+    }
+#fs-za{
+    width: 80%;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    border:1px yellow solid;
+}
+#qqa{
+    width: 20%;
+    height: 50px;
+}
+#qqb{
+    width: 50%;
+    height: 50px;
+    background-color: #0084ff;
+    text-align: center;
+}
+#qqc{
+    width: 20%;
+    height: 50px;
+}
+#qqa img{
+    width: 100%;
+    height: 100%;
+}
+#qqb img{
+    width: 100%;
+    height: 100%;
+}
+#qqb input{
+    width: 100%;
+}
+#qqc img{
+    width: 100%;
+    height: 100%;
+}

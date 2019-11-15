@@ -1,0 +1,173 @@
+body{
+    margin: 0;
+    position: relative;
+}
+
+#gg {
+    position: fixed;
+    width: 100%;
+    height: 92px;
+    z-index: 1;
+}
+#dh-one{
+    height: 45px;
+    width: 100%;
+}
+#dhl-one{
+    width: 100%;
+    height: 45px;
+    background-color: #191919;
+    display: flex;
+    align-items: center;
+    position: absolute;
+}
+#logo{
+    margin: 4px;
+    width: 75px;
+    height:23px;
+    margin-left: 10px;
+}
+#logo img{
+    width: 100%;
+    height: 100%;
+}
+#zi{
+    position: absolute;
+    right: 100px;
+}
+#zi a{
+    color: #b0b0b0;
+    font-size: 13px;
+    text-decoration: none;
+}
+#time{
+    width: 20px;
+    position: absolute;
+    right: 140px;
+}
+#time img{
+    width: 100%;
+}
+#gk{
+    width: 75px;
+    height: 22px;
+    position: absolute;
+    right: 10px;
+}
+#gk img{
+    width: 100%;
+    height: 100%;
+}
+#dh-two{
+    width: 100%;
+    height: 45px;
+    border-bottom: 2px #F2F2F2 solid;
+    background-color: #FAFAFA;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#dh-two a{
+    text-decoration: none;
+    color: #333;
+}
+#dao1{
+    width: 25px;
+    height: 25px;
+    font-size: 10px;
+}
+#dao1 img{
+    width: 100%;
+}
+#dao2{
+    font-size: 12px;
+}
+#hh{
+    position: absolute;
+    margin-top: 92px;
+    width: 100%;
+}
+/*-------------------主体第一部分----------------------------*/
+#user{
+    width: 100%;
+    border-top: 5px #f7f7f7 solid;
+    display: flex;
+    align-items: center;
+
+
+}
+#u-f {
+    margin: 10px;
+    border-radius: 50%;
+    width: 20%;
+    height: 72px;
+}
+#u-f img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+#u-s{
+    width: 55%;
+}
+#u-s-a{
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 15px;
+}
+#u-s-b{
+    font-size: 14px;
+    color: #999;
+}
+#u-t {
+    width: 25%;
+    color: #0bbe06;
+    font-size: 15px;
+}
+/*-------------------主体第一部分----------------------------*/
+.zj{
+    height: 100%;
+    width: 100%;
+    border-bottom: 8px #F7F7F7 solid;
+
+}
+.zj a{
+    text-decoration: none;
+}
+.lu {
+    border-bottom: 2px #f7f7f7 solid;
+    padding: 14px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.bo-one{
+    padding-right: 5px;
+    height: 20px;
+    width: 20px;
+}
+.bo-one img{
+    height: 100%;
+    width: 100%;
+}
+.bo-two{
+    color: #333;
+    font-size: 15px;
+
+}
+.bo-three{
+    color: #999;
+    font-size: 14px;
+    position: absolute;
+    right: 16px;
+}
+#xia{
+    padding: 15px;
+    width: 33%;
+    margin: auto;
+}
+#xia img {
+    width: 100%;
+}
+
+

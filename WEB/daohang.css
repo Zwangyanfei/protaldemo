@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    position: relative;
+}
+
+#gg {
+    position: fixed;
+    width: 100%;
+    height: 92px;
+    z-index: 1;
+}
+#dh-one{
+    height: 45px;
+    width: 100%;
+}
+#dhl-one{
+    width: 100%;
+    height: 45px;
+    background-color: #191919;
+    display: flex;
+    align-items: center;
+    position: absolute;
+}
+#logo{
+    margin: 4px;
+    width: 75px;
+    height:23px;
+    margin-left: 10px;
+}
+#logo img{
+    width: 100%;
+    height: 100%;
+}
+#zi{
+    position: absolute;
+    right: 100px;
+}
+#zi a{
+    color: #b0b0b0;
+    font-size: 13px;
+    text-decoration: none;
+}
+#time{
+    width: 20px;
+    position: absolute;
+    right: 140px;
+}
+#time img{
+    width: 100%;
+}
+#gk{
+    width: 75px;
+    height: 22px;
+    position: absolute;
+    right: 10px;
+}
+#gk img{
+    width: 100%;
+    height: 100%;
+}
+
+/*-------------------主体第一部分----------------------------*/
+#hh{
+    width: 100%;
+    height: 600px;
+    background-color:greenyellow;
+}
